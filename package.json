@@ -6,7 +6,8 @@
   "scripts": {
     "build": "tsc",
     "dev": "nodemon dist/server.js",
-    "start": "node dist/server.js"
+    "start": "node dist/server.js",
+    "render": "npm i && npm install typescript && npm run build"
   },
   "keywords": [],
   "author": "Nadeem Ashraf",
