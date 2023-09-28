@@ -2,7 +2,7 @@
   "name": "taskifyapi",
   "version": "1.0.0",
   "description": "Backend API for Taskify",
-  "main": "dsit/server.js",
+  "main": "dist/server.js",
   "scripts": {
     "build": "tsc",
     "dev": "nodemon dist/server.js",
